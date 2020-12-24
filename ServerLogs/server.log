@@ -1,0 +1,5 @@
+2020-12-22 03:47:20:141 [Appium] Welcome to Appium v1.18.3
+2020-12-22 03:47:20:143 [Appium] Non-default server args:
+2020-12-22 03:47:20:143 [Appium]   sessionOverride: true
+2020-12-22 03:47:20:143 [Appium]   logFile: /Users/baemin/Downloads/BaeMin-Appium/ServerLogs/server.log
+2020-12-22 03:47:20:173 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.

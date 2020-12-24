@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests">
+    <listeners>
+        <listener class-name="com.qa.listeners.TestListeners"></listener>
+    </listeners>
+    <test  name="BaeMin">
+        <parameter name="emulator" value="true"></parameter>
+        <parameter name="platformName" value="android"></parameter>
+        <parameter name="deviceName" value="emulator-5554"></parameter>
+       <classes>
+<!--           <class name="tests.OnboaringTest"></class>-->
+<!--           <class name="tests.LoginTest"></class>-->
+<!--           <class name="tests.SelectLocationTest"></class>-->
+<!--           <class name="tests.SearchFoodTest"></class>-->
+           <class name="tests.OrderTest"></class>
+<!--           <class name="tests.OrderWithCouponsTest"></class>-->
+       </classes>
+    </test>
+</suite>

@@ -1,0 +1,83 @@
+{
+  "invalidPhone": {
+    "phone": "31212111877121",
+    "password": "truong946"
+  },
+  "invalidPassword": {
+    "phone": "0356922946",
+    "password": "test123"
+  },
+  "validUser": {
+    "phone": "0356922946",
+    "password": "truong946"
+  },
+  "invalidAddress": {
+    "address": "31hahahaha"
+  },
+  "validAddress": {
+    "address": "31 Le Duan"
+  },
+  "invalidNameFood": {
+    "nameFood": "i don't know"
+  },
+  "validNameFood": {
+    "nameFood": "Com tam"
+  },
+  "invalidNumberCard": {
+    "numberCard": "11112222333344441111",
+    "nameCard": "Nguyen Van A",
+    "dateCard": "02/25"
+  },
+  "invalidNameCard": {
+    "numberCard": "4118496886030407",
+    "nameCard": "13Who are you",
+    "dateCard": "02/25"
+  },
+  "invalidDateCard": {
+    "numberCard": "4118496886030407",
+    "nameCard": "Nguyen Van A",
+    "dateCard": "13/01"
+  },
+  "validATMCard": {
+    "numberCard": "4118496886030407",
+    "nameCard": "Nguyen Van Truong",
+    "dateCard": "02/25"
+  },
+  "invalidNumVisa": {
+    "Num": "412132111111222212121",
+    "Name": "Nguyen Van A",
+    "Date": "02/25",
+    "Cvd": "342"
+  },
+  "invalidNameVisa": {
+    "Num": "4114489282120404",
+    "Name": "31Who are you",
+    "Date": "02/25",
+    "Cvd": "342"
+  },
+  "invalidDateVisa": {
+    "Num": "4114489282120404",
+    "Name": "Nguyen Van A",
+    "Date": "14/01",
+    "Cvd": "342"
+  },
+  "invalidCvdVisa": {
+    "Num": "4114489282120404",
+    "Name": "Nguyen Van A",
+    "Date": "14/01",
+    "Cvd": "1312313"
+  },
+  "validVisa": {
+    "Num": "4114489282120404",
+    "Name": "Nguyen Van A",
+    "Date": "14/01",
+    "Cvd": "348"
+  },
+  "validMoMo": {
+
+  },
+  "validZaLo": {
+
+  }
+
+}

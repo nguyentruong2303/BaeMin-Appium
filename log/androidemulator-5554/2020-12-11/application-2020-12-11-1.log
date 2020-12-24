@@ -1,0 +1,7 @@
+[log/androidemulator-5554 INFO ] 2020-12-11 19:41:13.845 BaseTest:157 - log path : log/androidemulator-5554
+[log/androidemulator-5554 INFO ] 2020-12-11 19:41:13.849 BaseTest:162 - logconfig.properties
+[log/androidemulator-5554 INFO ] 2020-12-11 19:41:13.849 BaseTest:167 - logstrings/strings.xml
+[log/androidemulator-5554 INFO ] 2020-12-11 19:41:20.549 BaseTest:178 - driver initialized : io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.woowahan.vn.baemin.MainActivity, appPackage=com.woowahan.vn.baemin, databaseEnabled=false, desired={platformName=android, appActivity=com.woowahan.vn.baemin.MainActivity, appPackage=com.woowahan.vn.baemin, deviceName=emulator-5554}, deviceApiLevel=26, deviceManufacturer=Google, deviceModel=Android SDK built for x86, deviceName=emulator-5554, deviceScreenDensity=320, deviceScreenSize=720x1280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2, platform=LINUX, platformName=android, platformVersion=8.0.0, statBarHeight=48, takesScreenshot=true, viewportRect={left=0, top=48, width=720, height=1136}, warnings={}, webStorageEnabled=false}
+[log/androidemulator-5554 ERROR] 2020-12-11 19:41:41.890 TestListeners:72 - java.io.PrintWriter@6a6e66a5
+[log/androidemulator-5554 ERROR] 2020-12-11 19:42:01.507 TestListeners:72 - java.io.PrintWriter@15095369
+[log/androidemulator-5554 ERROR] 2020-12-11 19:42:20.949 TestListeners:72 - java.io.PrintWriter@5055b07b
